@@ -1,10 +1,10 @@
 import React from 'react';
 
-const HeroBanner = () => {
+const Header = () => {
     return (
         <>
         </>
     );
 };
 
-export default HeroBanner;
+export default Header;
