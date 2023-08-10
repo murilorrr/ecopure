@@ -1,0 +1,10 @@
+#wrapper_1:after {
+  content: "";
+  background-color: #000;
+  position: absolute;
+  width: 4px;
+  height: 80vh;
+  top: 0;
+  left: 50%;
+  display: block;
+}

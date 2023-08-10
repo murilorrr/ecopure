@@ -1,7 +1,7 @@
 import React from 'react';
 import DesenvolvidoPor from './DesenvolvidoPor';
 
-const Footer = () => {
+const Footer : React.FC = () => {
     return (
         <div>
         <DesenvolvidoPor />
